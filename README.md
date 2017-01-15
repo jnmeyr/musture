@@ -1,7 +1,7 @@
 # Musture #
 
 ### Version ###
-1.0
+1.1
 
 ### Dependencies ###
 [FastLED](http://fastled.io/)

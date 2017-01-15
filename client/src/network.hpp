@@ -3,6 +3,8 @@
 
 void setupNetwork();
 
-void readNetwork(char * buffer);
+void readControls(char * controls);
+
+void readValues(char * values);
 
 #endif
